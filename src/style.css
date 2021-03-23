@@ -2,11 +2,10 @@
 *::before,*::after{box-sizing: border-box;}
 .skin{
     position: relative;
-    background: #ffe600;
     /* 占满全屏 */
     height: 100vh;
+    background: #ffe600;
 }
-
 
 .nose{
     border: 10px solid black;
